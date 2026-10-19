@@ -3,7 +3,7 @@
 Front-end engineer at **Bank of Georgia**, moving into **AI engineering**. I've spent ~3 years building web interfaces and design systems, and now I build LLM-powered agent systems in Python.
 
 - 🤖 **Building:** BidWise, a multi-agent assistant for importing cars from US auctions (Python, LangGraph)
-- 🏦 **At work:** front-end with Lit web components, QA test design, and AI adoption ambassador for my cluster
+- 🏦 **At work:** front-end with Lit web components and QA test design
 - 📚 **Learning:** RAG with evals, agents and MCP, the Anthropic API
 - 🧪 **Background:** BSc in Chemistry (Summa Cum Laude), then into tech through BoG's Leaderator bootcamp
 - 📍 Tbilisi, Georgia · open to remote roles with EU and US teams
